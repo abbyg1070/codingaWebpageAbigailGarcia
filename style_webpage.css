@@ -1,0 +1,116 @@
+@charset "UTF-8";
+.center {
+	display: flex;
+	justify-content: center;
+}
+
+
+
+
+h1 {font-size: 100px}
+h2 {font-size:75px}
+h4 {font-size: 50px}
+
+h1 {font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:700;
+  font-style: normal;
+}
+
+h2  {font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:500;
+  font-style: normal;
+}
+
+h4 {font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:500;
+  font-style: normal;
+}
+
+h1 {text-align: center;}
+	
+
+
+p {font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:300;
+  font-style: normal;}
+
+.Header-Hero-Section {
+    background-color: #E8DCC4;
+    padding: 50px;
+}
+
+.Footer-Section {
+    background-color: #E8DCC4;
+    padding: 50px;
+}
+
+
+.typography-button {
+    display: inline-block;
+    padding: 12px 24px;
+    background-color: #3E2C1A;
+    color: #CBB58F;
+    text-decoration: none;
+    font-family: "Open Sans", sans-serif;
+    font-size: 18px;
+    border-radius: 6px;
+    margin: 20px 0;
+}
+
+.typography-button:hover {
+    background-color: #5A4228;
+	
+}
+
+
+.color-button {
+    display: inline-block;
+    padding: 12px 24px;
+    background-color: #3E2C1A;
+    color: #CBB58F;
+    text-decoration: none;
+    font-family: "Open Sans", sans-serif;
+    font-size: 18px;
+    border-radius: 6px;
+    margin: 20px 0;
+}
+
+.color-button:hover {
+    background-color: #5A4228;
+}
+
+.hierarchy-button {
+    display: inline-block;
+    padding: 12px 24px;
+    background-color: #3E2C1A;
+    color: #CBB58F;
+    text-decoration: none;
+    font-family: "Open Sans", sans-serif;
+    font-size: 18px;
+    border-radius: 6px;
+    margin: 20px 0;
+}
+
+.hierarchy-button:hover {
+    background-color: #5A4228;
+}
+
+.visualappeal-button  {
+    display: inline-block;
+    padding: 12px 24px;
+    background-color: #3E2C1A;
+    color: #CBB58F;
+    text-decoration: none;
+    font-family: "Open Sans", sans-serif;
+    font-size: 18px;
+    border-radius: 6px;
+    margin: 20px 0;
+}
+
+.visualappeal-button:hover {
+    background-color: #5A4228;
+}
